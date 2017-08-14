@@ -1,8 +1,8 @@
 name := "mustache"
 
-version := "1.2"
+version := "1.3"
 
-scalaVersion := "2.11.1"
+scalaVersion := "2.11.8"
 
 resolvers += "Typesafe Repository" at "http://repo.typesafe.com/typesafe/releases/"
 
